@@ -45,4 +45,4 @@ Below are selected projects that demonstrate my skills in data analysis, machine
 ## 📫 Contact
 
 - 📧 anm2062@g.harvard.edu  
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🌐 [LinkedIn](https://linkedin.com/in/annalmoore   
